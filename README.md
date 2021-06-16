@@ -1,5 +1,5 @@
 # ImGuiHook [Global]
-ImGui Hook for DirectX12, DirectX11, DirectX9.
+ImGui Hook for DirectX12, DirectX11 and DirectX9 (x64/x86)
 
 
 ![Screenshot](https://raw.githubusercontent.com/inc-Majdev/ImGuiHook-DirectX9/master/ImGuiHook%20%5BDX9%5D/Image/Screenshot.png)
