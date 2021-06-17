@@ -59,3 +59,5 @@ Supports x86 and x64
 * [Universal graphical hook for a D3D9-D3D12, OpenGL and Vulkan based games.](https://github.com/Rebzzel/kiero)
 * [Universal Dear ImGui Hook](https://github.com/Sh0ckFR/Universal-Dear-ImGui-Hook)
 
+## Authors
+* [Majdev](https://github.com/inc-Majdev) [Coding]
